@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="jogador_1">Jogador 1  - X</string>
+    <string name="jogador_2">Jogador 2  - O</string>
+    <string name="placar">0</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="linearlayout">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <style name="textView1" parent="linearlayout">
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/corJogador1</item>
+    </style>
+
+
+    <style name="textView2" parent="linearlayout">
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/corJogador2</item>
+    </style>
+
+
+    <style name="placar" parent="linearlayout">
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">24dp</item>
+        <item name="android:text">@string/placar</item>
+        <item name="android:textColor">@color/blue</item>
+    </style>
+</resources>
